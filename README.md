@@ -1,3 +1,9 @@
 # team6_asimo
 
-arunshok06@gmail.com
+Captain : arunshok06@gmail.com
+
+Augustin Franson
+Evin Xavier
+Dennis Joseph
+Ashikh Kadavath
+Arun Thavaramkunnath Ashokan
